@@ -1,0 +1,6 @@
+{
+  "name": "Millionaire Fútbol: ES-ARM Football Quiz",
+  "description": "Интерактивная игра «Кто хочет стать миллионером» с 20 футбольными ситуациями на испанском и армянском языках с раздельным переводом вопросов и ответов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
